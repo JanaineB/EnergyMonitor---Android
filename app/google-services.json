@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1075466756233",
+    "firebase_url": "https://violet-energy-monitor.firebaseio.com",
+    "project_id": "violet-energy-monitor",
+    "storage_bucket": "violet-energy-monitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075466756233:android:344d548425d24a7d",
+        "android_client_info": {
+          "package_name": "com.barcelos.janaine.energymonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075466756233-5972jr007iui9gdalhqh4uijbuh8vp2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.barcelos.janaine.energymonitor",
+            "certificate_hash": "b8781ffd60871751b29ba66ff1ac64a6fc0735f2"
+          }
+        },
+        {
+          "client_id": "1075466756233-vkqrlgal3f29pu3b3gsp4g3k6omgro7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHgg3xTivJWyA424i6BKQjk2xx-Dusnbo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075466756233-vkqrlgal3f29pu3b3gsp4g3k6omgro7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
